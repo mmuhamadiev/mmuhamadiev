@@ -109,30 +109,17 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center">
+            <a href="https://www.buymeacoffee.com/mmuhamadiev" target="blank"><img width="200" alt="bmc" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg">
+            </a></div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mmuhamadiev&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-<div align="center">
-            <p align="left"> <a href="https://www.buymeacoffee.com/mmuhamadiev" target="blank"><img width="200" alt="bmc" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg"></a> </p>
-            </a></div>  
-
-<br/>  
-
+ 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
