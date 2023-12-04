@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mukhammadjohn, a Junior Plus Flutter Developer 👨‍💻 working since 2020 🚀</div>  
+### <div align="center">I'm Mukhammadjohn, a Middle Plus Flutter Developer 👨‍💻 working since 2020 🚀</div>  
   
 
 - 🔭 I’m currently increasing my Developer skills  
